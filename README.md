@@ -1,42 +1,76 @@
-# Kamal Supplies
+# 🥬 Kamal Supplies
 
-Kamal Supplies is a modern B2B supplier website focused on delivering fresh vegetables, fruits, and kitchen essentials for restaurants, cafes, hotels, and businesses.
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/de92e9e9-7e41-478b-84db-be66ca674dc7" />
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/fe77a36e-a666-4085-9eaa-1cdafe71f585" />
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/dd342db1-f7bf-46fe-bdba-e5cd042048c4" />
 
-Designed with a clean and elegant interface, this platform emphasizes professionalism, trust, and efficient product sourcing while maintaining a fresh and modern brand identity.
+
+A modern B2B supplier website for fresh vegetables, fruits, and kitchen essentials — built for restaurants, cafes, hotels, and businesses. Clean, responsive, and designed to communicate professionalism and trust.
+
+🔗 **Live Demo:** [porto-zaidi.vercel.app](https://porto-zaidi.vercel.app)
+
+---
+
+## 📸 Preview
+
+> _Add screenshots below_
+
+| Desktop View | Mobile View |
+|---|---|
+| _(screenshot)_ | _(screenshot)_ |
+
+---
 
 ## ✨ Features
 
-- Modern and minimal user interface
-- Responsive design for desktop and mobile
-- Product showcase for fresh produce and kitchen supplies
-- Elegant color scheme based on blue, black, and gray branding
-- Fast navigation and smooth user experience
-- Professional B2B presentation style
+- 🖥️ Modern, minimal UI with professional B2B presentation style
+- 📱 Fully responsive — desktop and mobile
+- 🛒 Product showcase for fresh produce and kitchen supplies
+- 🎨 Elegant blue, black, and gray brand identity
+- ⚡ Fast performance powered by Vite
 
-## 🎯 Project Purpose
-
-This project was created as a portfolio and business website concept for a fresh produce supplier company that wants to appear modern, organized, and premium.
+---
 
 ## 🛠️ Tech Stack
 
-- React
-- Vite
-- JavaScript
-- CSS / Tailwind CSS
+| Technology | Purpose |
+|---|---|
+| React | UI component framework |
+| Vite | Build tool & dev server |
+| JavaScript | Core logic |
+| Tailwind CSS | Styling & responsive layout |
 
-## 🎨 Design Concept
+---
 
-The design combines:
-- Clean layouts
-- Spacious sections
-- Modern typography
-- Neutral backgrounds
-- Elegant dark accents
-- Fresh produce visuals
+## ⚙️ Installation
 
-## 🚀 Getting Started
-
-Clone the repository:
+### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/kamal-supplies.git
+git clone https://github.com/JEK642/Homeland.git
+cd Homeland
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Run Development Server
+
+```bash
+npm run dev
+```
+
+### 4. Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+## 👨‍💻 Author
+
+Made with passion by **JEK** — [github.com/JEK642](https://github.com/JEK642)
